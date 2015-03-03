@@ -1,5 +1,5 @@
 body {
-  margin: 2em;
+  margin: 1em;
   background: #E8E8E8;
 }
 
@@ -7,10 +7,11 @@ body {
   font-family: sans-serif;
   font-size: 14px;
   color: #232323;
-  margin: 1em auto;
+  margin: .5em .5em;
   padding: 1em 1em 0 1em;
   background: white;
   max-width: 200px;
+  float: left;
 }
 
 img {
